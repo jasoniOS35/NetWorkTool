@@ -1,0 +1,6 @@
+framework module Pods_ADNeterworingASnapKitUITests {
+  umbrella header "Pods-ADNeterworingASnapKitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
